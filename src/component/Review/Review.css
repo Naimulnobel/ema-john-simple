@@ -1,0 +1,13 @@
+.shop-coaintner {
+  display: flex;
+}
+.product-coaintner {
+  width: 70%;
+  margin-left: 20px;
+  margin-left: 5px;
+  border-right: 1px solid lightgrey;
+}
+.cart-coaintner {
+  flex: 1;
+  box-sizing: border-box;
+}
